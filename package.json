@@ -1,0 +1,24 @@
+{
+    "name": "apicall",
+    "version": "1.0.0",
+    "description": "apicall",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/narendrachary93/apicall.git"
+    },
+    "author": "narendra",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/narendrachary93/apicall/issues"
+    },
+    "homepage": "https://github.com/narendrachary93/apicall#readme",
+    "dependencies": {
+        "body-parser": "^1.18.3",
+        "express": "^4.16.3",
+        "mongoose": "^5.7.12"
+    }
+}
